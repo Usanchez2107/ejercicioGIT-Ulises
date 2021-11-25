@@ -1,1 +1,2 @@
-Ulises Sanchez
+Ulises Sanchez,
+los ejercicios los subo enumerados
